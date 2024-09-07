@@ -14,4 +14,6 @@ If you upload more than one pdf, you will find out, that the lines will just con
 
 This can be fixed by typing "<br/>) after the line
 
+Hope this was helpful, and will make it easier for you to find pdf-files and share them between an mac and an windows pc, or even between friends :D
+
 
