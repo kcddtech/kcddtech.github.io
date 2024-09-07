@@ -3,4 +3,5 @@ How to use github as your own library and how to use it as storage for pdf-files
 In this i will show you how to use it as a library for books and other pdf-files so you allways can open it on any device you own
 
 
-https://kcddtech.github.io/
+https://kcddtech.github.io/imgonline-com-ua-ReplaceColor-0UcyTSFTRNXDLJDH.pdf
+
